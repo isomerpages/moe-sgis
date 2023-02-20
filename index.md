@@ -14,7 +14,7 @@ sections:
       button: Contact Us
       url: www.go.gov.sg/sgis
       key_highlights:
-        - title: Highlight A
+        - title: ""
           description: Important highlight A is important
           url: https://google.com
         - title: Highlight B
