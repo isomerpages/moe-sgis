@@ -12,7 +12,7 @@ sections:
         their scholars
       background: /images/hero-banner.png
       button: Contact Us
-      url: <a href="mailto:moe_sgis@moe.gov.sg">Sendmail</a>
+      url: www.go.gov.sg/sgis
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
