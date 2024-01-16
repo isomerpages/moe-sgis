@@ -29,6 +29,6 @@ sections:
       description: Keen to know what the SgIS SOs are looking out for in their SgIS
         scholars and what career development opportunities you can look forward
         to as an SgIS Scholar?
-      button: Button text
+      button: View SO Sharing Sessions
       url: /faq/
 ---
