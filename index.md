@@ -24,9 +24,11 @@ sections:
           description: Browse our SgIS Brochure
           url: https://go.gov.sg/sgis-brochure
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: 2024 Explore with SgIS
+      subtitle: Explore with SgIS
+      description: Keen to know what the SgIS SOs are looking out for in their SgIS
+        scholars and what career development opportunities you can look forward
+        to as an SgIS Scholar?
       button: Button text
       url: /faq/
 ---
