@@ -10,7 +10,7 @@ sections:
       title: Explore with Singapore-Industry Scholarship (SgIS)
       subtitle: Find out more about what SgIS Sponsoring Organisations (SOs) look for
         in their scholars and what career development you can look forward to!
-      background: /images/hero-banner.png
+      background: /images/EWS_Site_Photo_3.jpg
       button: Click Here for SO Sessions
       url: www.go.gov.sg/sgis
       key_highlights:
